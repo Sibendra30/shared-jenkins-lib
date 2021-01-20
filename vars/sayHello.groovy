@@ -17,6 +17,6 @@ def test() {
 }
 
 def checkoutSCM() {
-  sh 'checkout scm'
+  checkout scm
 }
 
