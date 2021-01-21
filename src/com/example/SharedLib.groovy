@@ -1,6 +1,6 @@
 package com.example
 
-Class SharedLib {
+public class SharedLib {
 
 def addNumber() {
       def x = 5;
