@@ -1,5 +1,4 @@
 #!/usr/bin/env groovy
-@Library('pipeline-library')_
 
 def call(String name = 'human') {
   echo "Hello, ${name}."
