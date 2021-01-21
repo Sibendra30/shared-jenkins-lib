@@ -20,3 +20,8 @@ def checkoutSCM() {
   'checkout scm'
 }
 
+def addNumber(Integer var1 = 10) {
+  def x= 5
+  x + var1
+}
+
